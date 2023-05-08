@@ -1,0 +1,4 @@
+isEnabled: true
+settings:
+  type: website
+  inSecure: true
